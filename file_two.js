@@ -1,1 +1,1 @@
-new gt();
+LAST CURRENT INFORMATION
